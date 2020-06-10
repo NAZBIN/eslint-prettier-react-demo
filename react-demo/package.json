@@ -47,8 +47,8 @@
     }
   },
   "lint-staged": {
-    "src/**/*.{js,ts}": [
-      "npm run lint",
+    "src/**/*.js": [
+      "eslint --fix --ext.js  ",
       "prettier  --write",
       "git add"
     ]
