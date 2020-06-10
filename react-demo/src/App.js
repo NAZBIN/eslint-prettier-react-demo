@@ -11,6 +11,7 @@ function App() {
           Wenbin <code>src/App.js</code> and save to reload.
         </p>
         <p>工程化实践-> 代码统一规范。Eslint + Prettier +lint-staged</p>
+        <p>工程化实践-> 代码统一规范。Eslint + Prettier +lint-staged</p>
       </header>
     </div>
   );
